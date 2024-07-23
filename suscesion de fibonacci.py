@@ -5,3 +5,5 @@ for i in sucesion:
     if i == 610:
         break
 print (f"la sucecion de fibonacci hasta el numero 1597 contiene los numeros {sucesion}")
+for j in sucesion:
+   print(j, end =" ")
